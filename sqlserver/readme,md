@@ -1,0 +1,33 @@
+# SQL Server Learning Portfolio 🎓
+
+Welcome to the SQL Server learning portfolio! 🚀 This folder, named "sqlserver," serves as a testament to my SQL skills and knowledge. It's a showcase of projects and exercises covering Data Manipulation, Data Definition, Data Types, and Expressions, including the following expressions:
+
+## 📁 Portfolio Structure
+
+1. **Data Manipulation:**
+   - Dive into the 🔄 "Data Manipulation" subfolder to explore SQL scripts and exercises showcasing my ability to manipulate data. It includes queries for retrieving, updating, and deleting data in SQL Server tables.
+
+2. **Data Definition:**
+   - Explore the 🛠️ "Data Definition" subfolder for SQL scripts and examples that highlight my proficiency in defining and managing database structures. This includes creating and altering tables, views, and other database objects.
+
+3. **Data Types:**
+   - Inside the 📊 "Data Types" subfolder, you'll find resources illustrating my knowledge of SQL Server data types. Understand how I choose the right data type for columns and utilize various data types supported by SQL Server.
+
+4. **Expressions:**
+   - The ➕ "Expressions" subfolder is a dedicated space for SQL expressions, including:
+      - **CASE Expression:** Explore how I use the CASE expression for conditional logic within SQL queries.
+      - **COALESCE Function:** Discover how the COALESCE function helps handle NULL values effectively in SQL expressions.
+      - **NULLIF Function:** Learn about the NULLIF function and how it's used to compare two expressions and return NULL if they are equal.
+
+## 💻 How to Verify
+
+1. Navigate to the specific subfolder based on the topic you want to explore (e.g., Data Manipulation, Data Definition, Data Types, or Expressions).
+2. Inside each subfolder, you'll find SQL scripts (files with a `.sql` extension) showcasing examples and exercises related to the respective topic.
+3. Use SQL Server Management Studio (SSMS) or another SQL Server query tool to execute the provided scripts and witness the results.
+4. Feel free to reach out if you have any questions or need further clarification on any aspect of my SQL portfolio.
+
+## 🤝 Contributions
+
+Contributions to enhance the content or add more examples are welcome! If you have suggestions, additional SQL scripts, exercises, or improvements, feel free to create a pull request with your proposed changes.
+
+Thank you for visiting my SQL learning portfolio! 🚀
